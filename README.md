@@ -1,7 +1,6 @@
 ### Olá eu sou o João Vcitor!!
 
 - 🌱 Atualmente estou aprendendo JavaScript, CSS e HTML
-- 👯 Estou procurando colaborar Em Pequenos e grandes projetos de front-end
 - 🤔 Estou procurando ajuda com aprendizado e foco em JavaScript, busco por variadas fontes de conhecimento em JavaScript, CSS e HTML
 - 📫 Como entrar em contato comigo:  Email: decarvalho201200@gmail.com  Instagram: @carv.lh
 - 😄 Pronomes: ele/dele
